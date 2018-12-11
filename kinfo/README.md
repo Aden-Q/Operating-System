@@ -20,6 +20,6 @@ $ ./kinfo
 
 Demo:
 
-![demo](F:\git\Operating-System\kinfo\images\demo.png)
+![demo](images\demo.png)
 
 Credit: Zecheng Qian
