@@ -20,6 +20,6 @@ $ ./kinfo
 
 Demo:
 
-![demo](images\demo.png)
+![demo](images/demo.png)
 
 Credit: Zecheng Qian
